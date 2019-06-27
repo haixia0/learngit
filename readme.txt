@@ -5,3 +5,4 @@ Creating a new branch is quick
 append branch b1
 append branch b2
 append branch dev
+append branch dev
