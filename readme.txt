@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 Creating a new branch is quick
 append branch b1
 append branch b2
+append branch dev
